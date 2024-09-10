@@ -29,9 +29,9 @@ The Number Game is a simple, interactive game where the player attempts to guess
 
 ## How to Play
 
-Enter a number between 1 and 20 in the input field.
-Click the "Check!" button to submit your guess.
-If your guess is correct, the page will turn green, and you will see a success message.
-If your guess is incorrect, the game will tell you if your guess is too high or too low. Your score decreases with every incorrect guess.
-If you fail to guess the number within 20 attempts, the game will end with a "Mission Failed" message.
-Click the "Again!" button to reset the game and try again.
+- Enter a number between 1 and 20 in the input field.
+- Click the "Check!" button to submit your guess.
+- If your guess is correct, the page will turn green, and you will see a success message.
+- If your guess is incorrect, the game will tell you if your guess is too high or too low. Your score decreases with every incorrect guess.
+- If you fail to guess the number within 20 attempts, the game will end with a "Mission Failed" message.
+- Click the "Again!" button to reset the game and try again.
